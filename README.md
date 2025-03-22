@@ -8,3 +8,6 @@ Please ensure that you have MySQL Workbench installed and properly configured, o
 
 The repository includes the training data and scripts for all models used in the project.
 However, only one trained model is attached for reference and testing purposes. If you need to use other models, you may need to train them using the provided scripts.
+
+
+autism_project.py ----> Refer to this file, for all the models to be used.
